@@ -1,0 +1,4 @@
+# Licensing server (Python) — local MySQL (largon)
+flask>=3.0.0
+pymysql>=1.1.0
+python-dotenv>=1.0.0
